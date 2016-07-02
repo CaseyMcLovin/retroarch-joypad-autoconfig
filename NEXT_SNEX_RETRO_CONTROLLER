@@ -1,0 +1,21 @@
+# https://goo.gl/6mfFHn - Amazon Only Product 
+input_driver = "udev"
+input_device = "NEXT SNES Retro USB Controller"
+input_device_display_name = "NEXT SNES Retro USB Controller"
+
+# Hex vid:pid = 3820:0009 -> Decimal vid:pid = 14368:9
+input_vendor_id = 2064
+input_product_id = 58625
+
+input_b_btn = "2"
+input_y_btn = "3"
+input_select_btn = "8"
+input_start_btn = "9"
+input_up_axis = "-1"
+input_down_axis = "+1"
+input_left_axis = "-0"
+input_right_axis = "+0"
+input_a_btn = "1"
+input_x_btn = "0"
+input_l_btn = "4"
+input_r_btn = "5"
